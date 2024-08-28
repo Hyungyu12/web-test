@@ -8,7 +8,7 @@
 </head>
 <body>
 	안녕, 반갑다. 친구야~ <br>
-	수정
+	수정 12
 	<a href="/user/user-List.jsp">유저리스트</a>
 </body>
 </html>
