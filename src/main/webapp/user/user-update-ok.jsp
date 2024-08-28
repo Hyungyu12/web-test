@@ -24,7 +24,7 @@ String sql = "UPDATE user_info\r\n"
 	+ "UI+PWD='" + uiPwd + "'\r\n"
 	+ "WHERE UI_NUM=" + uiNum;
 
-int result = stmt.executeUpdqte(sql);
+int result = stmt.executeUpdate(sql);
 
 if(result==1){
 %>
